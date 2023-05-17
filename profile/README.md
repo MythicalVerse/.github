@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - we are best smp fr
 🌈 Contribution guidelines - give ideas pls
 👩‍💻 Useful resources - we have a website
